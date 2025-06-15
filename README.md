@@ -1,5 +1,10 @@
 # AIELVU
 
 ## https://gw1.kr/AIEUP
-## https://www.schoolinfo.go.kr/ei/ss/Pneiss_f01_l0.do 대전둔원중학교
 ## https://ait.re.kr/
+
+# 연수 활용 서비스
+
+## 릴리스 AI : https://lilys.ai/
+## Konlpy를 활용한 Colab 노트북 https://colab.research.google.com/drive/1KwHiqk2EnknjYvySwpHoBJ7zw2KLJXav?usp=sharing
+## pxdai(어피니티 버블) https://pxdai.co.kr/welcome?next=/affinitybubble
