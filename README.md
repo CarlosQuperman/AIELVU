@@ -2,6 +2,7 @@
 
 ## https://gw1.kr/AIEUP
 ## https://ait.re.kr/
+## 연수 한글 파일 https://drive.google.com/file/d/1_K6qHH_svi8NVo9inHOXLz7uAuayHOsl/view?usp=sharing
 
 # 연수 활용 서비스
 
