@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ebd84e13-c868-4c18-ab47-519d01e8a41a)# AIELVU
+# AIELVU
 
 ## https://gw1.kr/AIEUP
 ## https://ait.re.kr/
